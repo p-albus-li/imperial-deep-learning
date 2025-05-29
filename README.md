@@ -4,8 +4,8 @@ This module explores both foundational and advanced deep learning concepts, conn
 
 ## Coursework
 
-- **Coursework 1:** Design, train, and optimize a custom deep learning model for classifying a curated subset of ImageNet, called NaturalImageNet. This dataset includes 20 animal classes from the natural world. **(100%)**
-- **Coursework 2:** Implement two popular generative models: a Variational Autoencoder (VAE) and a Denoising Diffussion Probablistic Model (DDPM). **(99%)**
+- **Coursework 1:** Design, train, and optimize a custom deep learning model for classifying a curated subset of ImageNet, called NaturalImageNet. This dataset includes 100 food classes from food pictures scrapped from Internet. **(100%)**
+- **Coursework 2:** Implement two popular generative models: a Variational Autoencoder (VAE) and a Denoising Diffussion Probablistic Model (DDPM) to build a hotdog generator. **(99%)**
 
 ## Weekly Notes and Resources
 
